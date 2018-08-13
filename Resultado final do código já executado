@@ -1,0 +1,89 @@
+Run Testa Casting – Resultado do Código Executado
+
+Programa de ordenação de números separado por ponto de Array simples do tipo String
+
+Array simples de String inicialmente Desordenado: 5.4
+Array simples de String inicialmente Desordenado: 5
+Array simples de String inicialmente Desordenado: 5.1
+Array simples de String inicialmente Desordenado: 5.1.3
+Array simples de String inicialmente Desordenado: 5.1.2
+Array simples de String inicialmente Desordenado: 5.1.2.2
+Array simples de String inicialmente Desordenado: 5.12
+Array simples de String inicialmente Desordenado: 5.50
+Array simples de String inicialmente Desordenado: 5.5
+Array simples de String inicialmente Desordenado: 5.1.4
+Array simples de String inicialmente Desordenado: 5.1.5.1.3
+Array simples de String inicialmente Desordenado: 5.1.3.1
+Array simples de String inicialmente Desordenado: 5.1.3.2
+Array simples de String inicialmente Desordenado: 5.1.3.2.3
+Array simples de String inicialmente Desordenado: 1.1
+Array simples de String inicialmente Desordenado: 1.2
+Array simples de String inicialmente Desordenado: 2
+Array simples de String inicialmente Desordenado: 3.3.3
+Array simples de String inicialmente Desordenado: 15.1.3
+Array simples de String inicialmente Desordenado: 55.1.3
+--------------------------
+Array multidimensional de Inteiros inicialmente Desordenado
+5 4 0 0 0 
+5 0 0 0 0 
+5 1 0 0 0 
+5 1 3 0 0 
+5 1 2 0 0 
+5 1 2 2 0 
+5 12 0 0 0 
+5 50 0 0 0 
+5 5 0 0 0 
+5 1 4 0 0 
+5 1 5 1 3 
+5 1 3 1 0 
+5 1 3 2 0 
+5 1 3 2 3 
+1 1 0 0 0 
+1 2 0 0 0 
+2 0 0 0 0 
+3 3 3 0 0 
+15 1 3 0 0 
+55 1 3 0 0 
+--------------------------
+Array multidimensional de Inteiros final Ordenado
+1 1 0 0 0 
+1 2 0 0 0 
+2 0 0 0 0 
+3 3 3 0 0 
+5 0 0 0 0 
+5 1 0 0 0 
+5 1 2 0 0 
+5 1 2 2 0 
+5 1 3 0 0 
+5 1 3 1 0 
+5 1 3 2 0 
+5 1 3 2 3 
+5 1 4 0 0 
+5 1 5 1 3 
+5 4 0 0 0 
+5 5 0 0 0 
+5 12 0 0 0 
+5 50 0 0 0 
+15 1 3 0 0 
+55 1 3 0 0 
+--------------------------
+Array simples de String final Ordenado: 1.1
+Array simples de String final Ordenado: 1.2
+Array simples de String final Ordenado: 2
+Array simples de String final Ordenado: 3.3.3
+Array simples de String final Ordenado: 5
+Array simples de String final Ordenado: 5.1
+Array simples de String final Ordenado: 5.1.2
+Array simples de String final Ordenado: 5.1.2.2
+Array simples de String final Ordenado: 5.1.3
+Array simples de String final Ordenado: 5.1.3.1
+Array simples de String final Ordenado: 5.1.3.2
+Array simples de String final Ordenado: 5.1.3.2.3
+Array simples de String final Ordenado: 5.1.4
+Array simples de String final Ordenado: 5.1.5.1.3
+Array simples de String final Ordenado: 5.4
+Array simples de String final Ordenado: 5.5
+Array simples de String final Ordenado: 5.12
+Array simples de String final Ordenado: 5.50
+Array simples de String final Ordenado: 15.1.3
+Array simples de String final Ordenado: 55.1.3
